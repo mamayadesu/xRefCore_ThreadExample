@@ -3,7 +3,6 @@
 namespace Program;
 
 use IO\Console;
-use Threading\__SuperGlobalArrayThread;
 use Threading\SuperGlobalArray;
 use Threading\Thread;
 use Threading\Threaded;
